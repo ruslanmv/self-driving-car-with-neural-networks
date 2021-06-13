@@ -1,0 +1,66 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Radeon (TM) 520 (ID=0x6665)
+    Vendor:   ATI
+    VRAM:     2039 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Ruslan\Dropbox\23-GITHUB\Projects\Self-driving-cars\Default Windows desktop 64-bit_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Ruslan\Dropbox\23-GITHUB\Projects\Self-driving-cars\Default Windows desktop 64-bit_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Ruslan\Dropbox\23-GITHUB\Projects\Self-driving-cars\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Ruslan\Dropbox\23-GITHUB\Projects\Self-driving-cars\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Ruslan\Dropbox\23-GITHUB\Projects\Self-driving-cars\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Ruslan\Dropbox\23-GITHUB\Projects\Self-driving-cars\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Ruslan\Dropbox\23-GITHUB\Projects\Self-driving-cars\Default Windows desktop 64-bit_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Ruslan\Dropbox\23-GITHUB\Projects\Self-driving-cars\Default Windows desktop 64-bit_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Ruslan\Dropbox\23-GITHUB\Projects\Self-driving-cars\Default Windows desktop 64-bit_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Ruslan\Dropbox\23-GITHUB\Projects\Self-driving-cars\Default Windows desktop 64-bit_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Ruslan\Dropbox\23-GITHUB\Projects\Self-driving-cars\Default Windows desktop 64-bit_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Ruslan\Dropbox\23-GITHUB\Projects\Self-driving-cars\Default Windows desktop 64-bit_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Ruslan\Dropbox\23-GITHUB\Projects\Self-driving-cars\Default Windows desktop 64-bit_Data\Managed\UnityEngine.CloudBuild.dll (this message is harmless)
+Loading C:\Users\Ruslan\Dropbox\23-GITHUB\Projects\Self-driving-cars\Default Windows desktop 64-bit_Data\Managed\UnityEngine.CloudBuild.dll into Unity Child Domain
+Platform assembly: C:\Users\Ruslan\Dropbox\23-GITHUB\Projects\Self-driving-cars\Default Windows desktop 64-bit_Data\Managed\UniFileBrowser.dll (this message is harmless)
+Loading C:\Users\Ruslan\Dropbox\23-GITHUB\Projects\Self-driving-cars\Default Windows desktop 64-bit_Data\Managed\UniFileBrowser.dll into Unity Child Domain
+- Completed reload, in  0.066 seconds
+Platform assembly: C:\Users\Ruslan\Dropbox\23-GITHUB\Projects\Self-driving-cars\Default Windows desktop 64-bit_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Ruslan\Dropbox\23-GITHUB\Projects\Self-driving-cars\Default Windows desktop 64-bit_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on ReturnToMainMenu
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+Platform assembly: C:\Users\Ruslan\Dropbox\23-GITHUB\Projects\Self-driving-cars\Default Windows desktop 64-bit_Data\Managed\Mono.Security.dll (this message is harmless)
+Platform assembly: C:\Users\Ruslan\Dropbox\23-GITHUB\Projects\Self-driving-cars\Default Windows desktop 64-bit_Data\Managed\Boo.Lang.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.998200 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3e44 -> priority: 1 
+  Thread -> id: 35ac -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.227900 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 419.
+Total: 0.405000 ms (FindLiveObjects: 0.044000 ms CreateObjectMapping: 0.017200 ms MarkObjects: 0.313900 ms  DeleteObjects: 0.029100 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.672600 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1465.
+Total: 0.707400 ms (FindLiveObjects: 0.090100 ms CreateObjectMapping: 0.025200 ms MarkObjects: 0.306900 ms  DeleteObjects: 0.284700 ms)
+
+Platform assembly: C:\Users\Ruslan\Dropbox\23-GITHUB\Projects\Self-driving-cars\Default Windows desktop 64-bit_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: C:\Users\Ruslan\Dropbox\23-GITHUB\Projects\Self-driving-cars\Default Windows desktop 64-bit_Data\Managed\System.Xml.dll (this message is harmless)
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
