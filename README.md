@@ -49,7 +49,27 @@ and select the folder that you want to save your data.
 
 
 
-Otherwise you can use my saved data in github called track1 or track2
+Otherwise you can use my saved data in github called track1 
+
+
+
+After you created your data files  you should create your enviroment
+
+and install all the repositories needes
+
+pip install eventlet
+
+pip install python-engineio==3.13.2
+
+pip install python-socketio==4.6.1
+
+conda install -c conda-forge tensorflow
+
+....
+
+
+
+
 
 
 
